@@ -5,7 +5,7 @@ published by Wang et al., Nature Communications, 2016.
 
 This study has several targets:
 
- 1) To set up the protocal of bacoding stratgy, which can sequence many different tissues in one smart cell;
+ 1) To set up the protocal of barcoding stratgy, which can sequence many different samples in one smart cell;
 
  2) To capture the as many full-length isoforms as possible in maize transcriptome;
  
