@@ -10,4 +10,4 @@ This study has several targets:
  
  3) To study alternative splicing in maize transcriptome;
  
- 4) Use full-length isoforms to facilitate genome annotation;
+ 4) Use full-length isoforms to facilitate genome annotation.
