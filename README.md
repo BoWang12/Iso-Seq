@@ -6,8 +6,8 @@ This study has several targets:
 
  1) To set up the protocal of barcoding strategy, which can sequence many different samples in one smart cell;
 
- 2) To capture the as many full-length isoforms as possible in maize transcriptome;
+ 2) To capture as many full-length isoforms as possible in maize transcriptome;
  
  3) To study alternative splicing in maize transcriptome;
  
- 4) Using full-length isoforms to facilitate genome annotation;
+ 4) Use full-length isoforms to facilitate genome annotation;
